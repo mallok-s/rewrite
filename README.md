@@ -120,3 +120,7 @@ uv run ruff check --fix .
 # Format code
 uv run ruff format .
 ```
+
+## License
+
+MIT License - see [LICENSE](LICENSE) file for details.
